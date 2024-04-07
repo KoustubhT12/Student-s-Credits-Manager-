@@ -1,0 +1,1 @@
+The above react project is made for the professors , it was made with an intention to make credit managerment for students easier for the teacher's I made this when I was in my second year in college 
